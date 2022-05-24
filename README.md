@@ -9,7 +9,7 @@ It is a website for a social organization where we worked in team with the follo
 ![image](https://user-images.githubusercontent.com/71223620/170072728-5fb301b7-d651-4bfc-a9e9-625ff180fca9.png)
 ![image](https://user-images.githubusercontent.com/71223620/170073358-7d4c9f9c-b102-4894-886c-75213ce7f95b.png)
 ![image](https://user-images.githubusercontent.com/71223620/170072950-2915484d-9f88-4b90-94e9-4d63d3ea8763.png)
-![image](https://user-images.githubusercontent.com/71223620/170074043-6ba82ba5-575b-4fe9-96dc-e7ae5465be3b.png)
+![image](https://user-images.githubusercontent.com/71223620/170074667-fca5f88b-7b61-4043-97a5-14c22655d66b.png)
 ![image](https://user-images.githubusercontent.com/71223620/170074168-f427e804-6da0-4528-aec0-26886bba5c2b.png)
 
 
