@@ -1,0 +1,62 @@
+{
+  "name": "ong-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^34.0.0",
+    "@ckeditor/ckeditor5-react": "^5.0.0",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@sendgrid/mail": "^7.6.2",
+    "@testing-library/jest-dom": "4.2.4",
+    "@testing-library/react": "9.3.2",
+    "@testing-library/user-event": "7.1.2",
+    "axios": "0.26.1",
+    "formik": "2.2.9",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-focus-lock": "^2.9.1",
+    "react-hot-toast": "2.2.0",
+    "react-icons": "^4.3.1",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "3.4.3",
+    "serve": "^13.0.2",
+    "styled-components": "5.3.5",
+    "yup": "0.32.11"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/standard",
+    "lint-fix": "./node_modules/.bin/standard --fix",
+    "start-legacy": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "pwa": "serve -s build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/standard/eslintrc.json"
+    ]
+  },
+  "standard": {
+    "ignore": [
+      "public/*"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "standard": "17.0.0"
+  }
+}
