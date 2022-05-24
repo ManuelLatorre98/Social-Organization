@@ -1,5 +1,5 @@
 # Social-Organization
-It is a website for a social organization where we worked in team with the follow technologies: React, Redux Toolkit, Node.js, Express.js, MySQL, Sequelize ORM, Amazon S3, JWT, and others. The project is part of the aceleration of Alkemy.
+It is a website for a social organization where we worked in team with the follow technologies: React, Redux Toolkit, Node.js, Express.js, MySQL, Sequelize ORM, Amazon S3, JWT, Jest, Swagger, and others. The project is part of the aceleration of Alkemy.
 ![image](https://user-images.githubusercontent.com/71223620/170072163-a7f9b957-044f-4f86-9c8a-6b376c902418.png)
 ![image](https://user-images.githubusercontent.com/71223620/170072241-15b0db43-c675-4a8d-abf0-2c5eec1057ca.png)
 ![image](https://user-images.githubusercontent.com/71223620/170072342-3276090b-b0fa-4084-b435-c0c20a44628c.png)
@@ -9,4 +9,8 @@ It is a website for a social organization where we worked in team with the follo
 ![image](https://user-images.githubusercontent.com/71223620/170072728-5fb301b7-d651-4bfc-a9e9-625ff180fca9.png)
 ![image](https://user-images.githubusercontent.com/71223620/170073358-7d4c9f9c-b102-4894-886c-75213ce7f95b.png)
 ![image](https://user-images.githubusercontent.com/71223620/170072950-2915484d-9f88-4b90-94e9-4d63d3ea8763.png)
+![image](https://user-images.githubusercontent.com/71223620/170074043-6ba82ba5-575b-4fe9-96dc-e7ae5465be3b.png)
+![image](https://user-images.githubusercontent.com/71223620/170074168-f427e804-6da0-4528-aec0-26886bba5c2b.png)
+
+
 
